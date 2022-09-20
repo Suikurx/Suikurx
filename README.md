@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 I dabble in both software development and web deveopment and work on small projects for now. My main languages are Python and JavaScript. 
 
