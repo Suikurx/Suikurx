@@ -1,6 +1,6 @@
 
 
-I dabble in both software development and web deveopment and work on small projects for now. My main languages are Python and JavaScript. 
+I software development and web deveopment and work on small projects for now. My main languages are Python and JavaScript. 
 
 [![Suikurix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suikurx&theme=dark&show_icons=true)](https://github.com/suikurx/github-readme-stats)
 
