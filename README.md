@@ -2,7 +2,6 @@
 
 I software development and web deveopment and work on small projects for now. My main languages are Python and JavaScript. 
 
-![Suikurx's GitHub stats](https://github-readme-stats.vercel.app/api?username=suikurx&show_icons=true&theme=radical)
 
 <!--
 **Suikurx/Suikurx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
